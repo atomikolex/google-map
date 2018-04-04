@@ -1,6 +1,6 @@
 {
   "name": "google-map",
-  "version": "3.0-preview",
+  "version": "2.0.5",
   "description": "Google Maps web components",
   "homepage": "https://elements.polymer-project.org/elements/google-map",
   "main": [
@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "web-component-tester": "^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
     "iron-component-page": "PolymerElements/iron-component-page#1 - 2"
   },
   "variants": {
@@ -44,6 +45,7 @@
       },
       "devDependencies": {
         "web-component-tester": "^4.0.0",
+        "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
         "iron-component-page": "PolymerElements/iron-component-page#^1.1.7"
       }
     }

@@ -1,10 +1,10 @@
-import '../../@polymer/polymer/polymer.js';
+import '../polymer/polymer.js';
 import '../google-apis/google-maps-api.js';
-import { IronResizableBehavior } from '../../@polymer/iron-resizable-behavior/iron-resizable-behavior.js';
-import '../../@polymer/iron-selector/iron-selector.js';
+import { IronResizableBehavior } from '../iron-resizable-behavior/iron-resizable-behavior.js';
+import '../iron-selector/iron-selector.js';
 import './google-map-marker.js';
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
-import { dom } from '../../@polymer/polymer/lib/legacy/polymer.dom.js';
+import { Polymer } from '../polymer/lib/legacy/polymer-fn.js';
+import { dom } from '../polymer/lib/legacy/polymer.dom.js';
 
 Polymer({
   _template: `

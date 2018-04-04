@@ -1,5 +1,5 @@
-import '../../@polymer/polymer/polymer.js';
-import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
+import '../polymer/polymer.js';
+import { Polymer } from '../polymer/lib/legacy/polymer-fn.js';
 import '../google-apis/google-maps-api.js';
 
 
