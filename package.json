@@ -1,5 +1,5 @@
 {
-  "name": "@atomikolex/google-map",
+  "name": "@atomiko/google-map-holdout",
   "flat": true,
   "version": "0.0.1",
   "description": "Google Maps web components - unofficial HOLDOUT (done with Polymer-Modulizer)",
