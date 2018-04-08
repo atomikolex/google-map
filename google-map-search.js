@@ -1,5 +1,5 @@
-import '../../node_modules/@polymer/polymer/polymer-element.js';
-import { Polymer } from '../../node_modules/@polymer/polymer/lib/legacy/polymer-fn.js';
+import '../../@polymer/polymer/polymer-element.js';
+import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
 
 Polymer({
   is: 'google-map-search',

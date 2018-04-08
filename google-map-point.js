@@ -1,6 +1,6 @@
-import '../../node_modules/@polymer/polymer/polymer-element.js';
-import '../../node_modules/google-apis/google-maps-api.js';
-import { Polymer } from '../../node_modules/@polymer/polymer/lib/legacy/polymer-fn.js';
+import '../../@polymer/polymer/polymer-element.js';
+import '../google-apis-holdout/google-maps-api.js';
+import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
 
 Polymer({
   is: 'google-map-point',
