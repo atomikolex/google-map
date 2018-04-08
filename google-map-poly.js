@@ -1,8 +1,8 @@
-import '../polymer/polymer.js';
+import '../../node_modules/@polymer/polymer/polymer-element.js';
 import '../google-apis/google-maps-api.js';
 import './google-map-point.js';
-import { Polymer } from '../polymer/lib/legacy/polymer-fn.js';
-import { dom } from '../polymer/lib/legacy/polymer.dom.js';
+import { Polymer } from '../../node_modules/@polymer/polymer/lib/legacy/polymer-fn.js';
+import { dom } from '../../node_modules/@polymer/polymer/lib/legacy/polymer.dom.js';
 Polymer({
   _template: `
     <style>

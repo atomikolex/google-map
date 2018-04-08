@@ -1,8 +1,8 @@
 {
   "name": "@atomikolex/google-map",
   "flat": true,
-  "version": "3.0-preview",
-  "description": "Google Maps web components",
+  "version": "0.0.1",
+  "description": "Google Maps web components - unofficial HOLDOUT (done with Polymer-Modulizer)",
   "contributors": [
     "Frankie Fu <ffu@google.com>",
     "Scott Miles <sjmiles@google.com>",
