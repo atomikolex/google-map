@@ -1,7 +1,7 @@
 {
   "name": "@atomiko/google-map-holdout",
   "flat": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Google Maps web components - unofficial HOLDOUT (done with Polymer-Modulizer)",
   "contributors": [
     "Frankie Fu <ffu@google.com>",
