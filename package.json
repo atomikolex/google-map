@@ -1,4 +1,33 @@
 {
+  "_args": [
+    [
+      "@atomiko/google-map-holdout@0.0.3",
+      "/home/atomikolex/public_html/__/wcp3psycho"
+    ]
+  ],
+  "_from": "@atomiko/google-map-holdout@0.0.3",
+  "_id": "@atomiko/google-map-holdout@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-HgadkoBozS+tk/uw3ySuHzrkvMySwxLFJYZr8njaw/KakT01yoOLlY5KRf/32mZ4QyohxUAAOF8vuhb+xFc3QQ==",
+  "_location": "/@atomiko/google-map-holdout",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@atomiko/google-map-holdout@0.0.3",
+    "name": "@atomiko/google-map-holdout",
+    "escapedName": "@atomiko%2fgoogle-map-holdout",
+    "scope": "@atomiko",
+    "rawSpec": "0.0.3",
+    "saveSpec": null,
+    "fetchSpec": "0.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@atomiko/google-map-holdout/-/google-map-holdout-0.0.3.tgz",
+  "_spec": "0.0.3",
+  "_where": "/home/atomikolex/public_html/__/wcp3psycho",
   "contributors": [
     {
       "name": "Frankie Fu",
@@ -33,5 +62,5 @@
   ],
   "license": "Apache-2.0",
   "name": "@atomiko/google-map-holdout",
-  "version": "0.0.3"
+  "version": "0.0.4"
 }

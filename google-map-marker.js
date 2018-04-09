@@ -1,4 +1,4 @@
-import '../../@polymer/polymer/polymer-element.js';
+import '../../@polymer/polymer/polymer-legacy.js';
 import '../google-apis-holdout/google-maps-api.js';
 import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
 

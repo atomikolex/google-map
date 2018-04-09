@@ -1,4 +1,4 @@
-import '../../@polymer/polymer/polymer-element.js';
+import '../../@polymer/polymer/polymer-legacy.js';
 import '../google-apis-holdout/google-maps-api.js';
 import { IronResizableBehavior } from '../../@polymer/iron-resizable-behavior/iron-resizable-behavior.js';
 import '../../@polymer/iron-selector/iron-selector.js';
